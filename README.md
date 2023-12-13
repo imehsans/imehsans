@@ -1,5 +1,6 @@
 ### Hi there 👋
-# Ehsan Ullah - Frontend React Developer 👨‍💻
+# Ehsan Ullah 
+## Frontend React Developer 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ehsan-ullah-57b72a156/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/9044450/ehsan-ullah)
