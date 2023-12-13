@@ -1,69 +1,37 @@
-### Hi there 👋
-# Ehsan Ullah 
-## Frontend React Developer 👨‍💻
+<h1 align="center">Hi 👋, I'm EHSAN ULLAH</h1>
+<h3 align="center">About Me 🚀 Goal-oriented and passionate Frontend React Developer with three years of experience crafting visually appealing and user-friendly web applications.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ehsan-ullah-57b72a156/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/9044450/ehsan-ullah)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/imehsans)
-[![Skype](https://img.shields.io/badge/Skype-Connect-blue)](https://join.skype.com/invite/sRWQk6Cai70f)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imehsans&label=Profile%20views&color=0e75b6&style=flat" alt="imehsans" /> </p>
 
-## About Me 🚀
-Goal-oriented and passionate Frontend React Developer with three years of experience crafting visually appealing and user-friendly web applications. Skilled in HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, jQuery, ReactJS, Next JS, Redux JS, and Git.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imehsans" alt="imehsans" /></a> </p>
 
-## Work Experience 💼
+- 🌱 I’m currently learning **Advance MERN Concepts and methadologies**
 
-### SincereGen Technologies [01/08/2023 – Current]
-- Part-time remote position.
-- Collaborated with cross-functional teams to design and develop visually appealing web applications.
-- Improved user engagement by 20% through responsive design principles.
-- Reduced website load times by 15% through optimization techniques.
+- 👨‍💻 All of my projects are available at [https://ehsanportfoliosite.netlify.app/](https://ehsanportfoliosite.netlify.app/)
 
-### IKONIC Solutions [01/03/2023 – Current]
-- Located in Islamabad.
-- Developed stunning and user-intuitive web applications in collaboration with diverse teams.
-- Ensured strict adherence to industry-leading accessibility, usability, and compliance standards.
+- 💬 Ask me about **JS Development**
 
-### Merik Solutions [16/08/2021 – 28/02/2023]
-- Located in Islamabad.
-- Constructed custom websites with a focus on clean code and organization.
-- Collaborated closely with clients to translate requirements into functional web solutions.
+- 📫 How to reach me **mehsanjadoon786@gmail.com**
 
-### TODD's Group [01/01/2021 – 15/08/2021]
-- Located in Abbottabad.
-- Enhanced user experiences and website functionality.
-- Demonstrated proficiency in agile environments using Jira for project management.
+- 📄 Know about my experiences [HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, jQuery, ReactJS, Next JS, Redux JS, Node Js, Express, MongoDB and Git.](HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, jQuery, ReactJS, Next JS, Redux JS, Node Js, Express, MongoDB and Git.)
 
-### Freelance [01/01/2020 – Current]
-- Remote work for local and international clients.
-- Specializing in creating high-quality, user-friendly websites.
-- Committed to surpassing client expectations and pushing the boundaries of web development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/imehsans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imehsans" height="30" width="40" /></a>
+<a href="https://dev.to/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cdehsan" height="30" width="40" /></a>
+<a href="https://twitter.com/cdehsann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cdehsann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cdehsan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users//users/9044450/ehsan-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/9044450/ehsan-ullah" height="30" width="40" /></a>
+<a href="https://codesandbox.com/imehsans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="imehsans" height="30" width="40" /></a>
+<a href="https://fb.com/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cdehsan" height="30" width="40" /></a>
+<a href="https://instagram.com/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdehsan" height="30" width="40" /></a>
+</p>
 
-## Education 📚
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-**Bachelors of Software Engineering**
-COMSATs University Islamabad, Abbottabad Campus [28/08/2017 – 09/09/2021]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehsans&show_icons=true&locale=en&layout=compact" alt="imehsans" /></p>
 
-## Technical Skills 🛠️
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imehsans&show_icons=true&locale=en" alt="imehsans" /></p>
 
-- HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript
-- ReactJS, Next JS, Redux JS
-- Git, REST APIs, JSON, XML
-- MySQL, PHP, Node.js, Express, MongoDB, Mongoose
-
-## Communication Skills 🗣️
-
-- Excellent written and verbal communication skills.
-- Proficient in conveying technical concepts to non-technical stakeholders.
-
-## Organizational / Managerial Skills 📊
-
-- Strong organizational and leadership skills.
-- Proficiency in project management tools such as Jira and Basecamp.
-- Experience in both independent and collaborative work.
-
-## Contact Me 📧
-
-- Email: mehsanjadoon786@gmail.com
-- Portfolio: [Ehsan's Portfolio](https://ehsanportfoliosite.netlify.app/)
-
-Let's connect and build amazing things together! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imehsans&" alt="imehsans" /></p>
