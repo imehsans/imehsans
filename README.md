@@ -2,7 +2,7 @@
 <h3 align="center">Goal-oriented MERN & Backend Engineer | Building scalable, user-friendly web apps with clean architecture and production-ready practices 🚀</h3>
 
 <p align="center">
-  <a href="https://ehsanportfoliosite.netlify.app" target="_blank">🌍 Portfolio</a> •
+<!--   <a href="https://ehsanportfoliosite.netlify.app" target="_blank">🌍 Portfolio</a> • -->
   <a href="mailto:mehsanjadoon786@gmail.com">📫 mehsanjadoon786@gmail.com</a> •
   <a href="https://www.linkedin.com/in/cdehsan/" target="_blank">LinkedIn</a>
 </p>
