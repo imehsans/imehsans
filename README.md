@@ -1,38 +1,102 @@
 <h1 align="center">Hi 👋, I'm EHSAN ULLAH</h1>
-<h3 align="center">About Me 🚀 Goal-oriented and passionate Frontend React Developer with three years of experience crafting visually appealing and user-friendly web applications.</h3>
+<h3 align="center">Goal-oriented MERN & Backend Engineer | Building scalable, user-friendly web apps with clean architecture and production-ready practices 🚀</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imehsans&layout=compact)](https://github.com/imehsans/github-readme-stats)
-
-🌍 My website: [Ehsan Ullah's Portfolio](https://ehsanportfoliosite.netlify.app)
-
-📊 You can find my open source contributions. I welcome and appreciate any contributions to my repositories! 🤝
-
-[![EhsanUllah's GitHub stats](https://github-readme-stats.vercel.app/api?username=imehsans&theme=prussian&show_icons=true)](https://github.com/imehsans/github-readme-stats)
-
-
-- 🌱 I’m currently learning **Advance MERN Concepts and methadologies**
-
-
-- 💬 Ask me about **JS Development**
-
-- 📫 How to reach me **mehsanjadoon786@gmail.com**
-
-- 📄 Know about my experiences [HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, jQuery, ReactJS, Next JS, Redux JS, Node Js, Express, MongoDB and Git.](HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, jQuery, ReactJS, Next JS, Redux JS, Node Js, Express, MongoDB and Git.)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/imehsans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imehsans" height="30" width="40" /></a>
-<a href="https://dev.to/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cdehsan" height="30" width="40" /></a>
-<a href="https://twitter.com/cdehsann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cdehsann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cdehsan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//users/9044450/ehsan-ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/9044450/ehsan-ullah" height="30" width="40" /></a>
-<a href="https://codesandbox.com/imehsans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="imehsans" height="30" width="40" /></a>
-<a href="https://fb.com/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cdehsan" height="30" width="40" /></a>
-<a href="https://instagram.com/cdehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cdehsan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ehsanportfoliosite.netlify.app" target="_blank">🌍 Portfolio</a> •
+  <a href="mailto:mehsanjadoon786@gmail.com">📫 mehsanjadoon786@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/cdehsan/" target="_blank">LinkedIn</a>
 </p>
-🔗 Check out my LinkedIn profile for more information or to contact/connect/follow: [Ehsan Ullah's LinkedIn](https://www.linkedin.com/in/cdehsan/)
 
-🎉 Thanks for stopping by! Let's connect and work on some cool projects together. 🚀
+<p align="center">
+  <a href="https://github.com/imehsans"><img alt="EhsanUllah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=imehsans&theme=prussian&show_icons=true" /></a>
+  <a href="https://github.com/imehsans"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imehsans&layout=compact" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+I’m Ehsan Ullah — a result-driven **MERN Stack Developer** with up to five years of hands-on experience delivering polished web applications. I focus on scalable, maintainable code, using modern tools and best practices to ship features faster and more reliably. I enjoy turning product ideas into production-ready software that users love.
+
+---
+
+## 🚀 What I Do / Value Proposition
+- Build full-stack web apps with React (Next.js) and Node.js (Express / NestJS)  
+- Design APIs and backend systems that are secure, testable, and performant  
+- Create responsive, accessible UI with Tailwind CSS and component-driven architecture  
+- Implement CI/CD, containerization (Docker), and deploy to cloud platforms (Netlify, Vercel, AWS/GCP)  
+- Mentor teammates, improve code quality, and deliver business value quickly  
+
+---
+
+## 🎨 Frontend Expertise
+- **Languages & Frameworks:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+
+- **UI & Styling:**  
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
+
+## ⚙️ Backend Expertise
+- **Languages & Frameworks:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+
+- **Databases:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+- **Auth & APIs:**  
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+
+---
+
+## 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+
+---
+
+## ⭐ Selected Highlights
+- Delivered multiple production web apps using the MERN stack and TypeScript.  
+- Built secure RESTful APIs and implemented role-based access for enterprise features.  
+- Led frontend redesign projects that improved user retention and conversion.  
+- Experience integrating third-party services (payment gateways, analytics, and cloud storage).  
+
+---
+
+## 📁 Notable Projects
+- **Client Portal** → Full-stack app (React + Node + MongoDB). Auth, dashboards, file uploads, and role-based permissions. [Live / Repo]  
+- **E-commerce Platform** → Next.js + NestJS backend + MySQL. Product catalog, cart, orders, payments, admin panel. [Live / Repo]  
+- **Real-time Dashboard** → React + Socket.io + Redis caching for live updates and analytics. [Repo]  
+
+---
+
+## 💼 Why hire me?
+I combine strong frontend UX sensibilities with a robust backend understanding, so I can deliver end-to-end solutions that are maintainable, secure, and aligned with business goals. I work well with cross-functional teams and can scale solutions from MVP to production-ready systems.
+
+---
+
+## 📫 Let’s work together
+If you have a project, freelance work, or a role that needs someone who cares about quality and delivery — get in touch:  
+- ✉️ **mehsanjadoon786@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cdehsan/)  
+- 🌍 [Portfolio](https://ehsanportfoliosite.netlify.app)  
+
+---
+
+<p align="center">
+  <em>Available for freelance & full-time opportunities — let’s build something great together.</em> 🚀
+</p>
