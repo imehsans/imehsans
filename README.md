@@ -92,8 +92,7 @@ I combine strong frontend UX sensibilities with a robust backend understanding, 
 ## 📫 Let’s work together
 If you have a project, freelance work, or a role that needs someone who cares about quality and delivery — get in touch:  
 - ✉️ **mehsanjadoon786@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cdehsan/)  
-- 🌍 [Portfolio](https://ehsanportfoliosite.netlify.app)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cdehsan/)    
 
 ---
 
