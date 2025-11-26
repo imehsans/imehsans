@@ -78,10 +78,10 @@ I’m Ehsan Ullah — a result-driven **MERN Stack Developer** with up to five y
 ---
 
 ## 📁 Notable Projects
-- **Client Portal** → Full-stack app (React + Node + MongoDB). Auth, dashboards, file uploads, and role-based permissions. [Live / Repo]  
-- **E-commerce Platform** → Next.js + NestJS backend + MySQL. Product catalog, cart, orders, payments, admin panel. [Live / Repo]  
-- **Real-time Dashboard** → React + Socket.io + Redis caching for live updates and analytics. [Repo]  
-
+- **Client Portal** → Full-stack app (React + Node + MongoDB). Auth, dashboards, file uploads, and role-based permissions.  
+- **E-commerce Platform** → Next.js + NestJS backend + MySQL. Product catalog, cart, orders, payments, admin panel.  
+- **Real-time Dashboard** → React + Socket.io + Redis caching for live updates and analytics. 
+**Live review available**
 ---
 
 ## 💼 Why hire me?
